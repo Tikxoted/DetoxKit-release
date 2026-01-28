@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.4</title>
+            <title>1.0.5</title>
             <description><![CDATA[<ul><li>Using telemetrydeck library for basic signal analytic</li><li>Imlpement Check for Updates changelog release note</li><li>Update app icon on menu bar</li><li>Update menu item about</li></ul>]]></description>
-            <pubDate>Wed, 28 Jan 2026 15:47:04 +0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <pubDate>Wed, 28 Jan 2026 16:28:13 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit_v1.0.4.dmg" length="4576584" type="application/octet-stream" sparkle:edSignature="/Iz9uL5jzegwN9LOxWofG+0AwY9647xM9bGbgCc2HMmWv0pA8Q0rY5fnxB459tt7oB2XJdkCedPu+4vDNY2OAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit_v1.0.5.dmg" length="4576882" type="application/octet-stream" sparkle:edSignature="yrsiGFaeaCsf7gTktn/WN7T6uFsi/T7BzRrsC9x8JSIaMPUKtCe2f3+06PIhvN08ahjrnUOE8u1W9aAEfTmNAw=="/>
         </item>
     </channel>
 </rss>
