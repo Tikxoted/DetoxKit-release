@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Detox Kit</title>
+        <item>
+            <title>1.0.4</title>
+            <pubDate>Wed, 28 Jan 2026 13:21:36 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit_v1.0.4.dmg" length="4576626" type="application/octet-stream" sparkle:edSignature="ErKT8Y4BnCzD1yWT4lXesDukhjw8NnYdz+XwAC4TauTZnYhPnHI36JNvz22ko3B0e/ArLtUXZXLXj0UOLS6gDg=="/>
+        </item>
+    </channel>
+</rss>
