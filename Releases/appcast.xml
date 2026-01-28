@@ -5,11 +5,11 @@
         <item>
             <title>1.0.6</title>
             <description><![CDATA[<ul><li>Using telemetrydeck library for basic signal analytic</li><li>Imlpement Check for Updates changelog release note</li><li>Update app icon on menu bar</li><li>Update menu item about</li></ul>]]></description>
-            <pubDate>Wed, 28 Jan 2026 16:56:37 +0700</pubDate>
+            <pubDate>Wed, 28 Jan 2026 17:45:02 +0700</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit_v1.0.6.dmg" length="4576923" type="application/octet-stream" sparkle:edSignature="7ONhV9sboAXZHuLxqqo9i6evbzydSJzJtrmbqC5N7pb/UiSc45+uFp7vDa52MsyppvC4Xa6T3hNFLXCk8grLAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="4576882" type="application/octet-stream" sparkle:edSignature="3FhXdYShBYBbe55yBJqPi5M4AA7LCH4cl5GnLXeQU9AQO7uzEv4wh5vpe+h0VAZ6o2emhcsc+XzfGAaRkZOiBw=="/>
         </item>
     </channel>
 </rss>
