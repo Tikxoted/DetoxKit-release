@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.7</title>
+            <title>1.0.8</title>
             <description><![CDATA[<ul><li>Integrated Sentry for crash reporting</li></ul>]]></description>
-            <pubDate>Tue, 03 Feb 2026 17:01:33 +0700</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <pubDate>Tue, 03 Feb 2026 17:35:40 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="5967921" type="application/octet-stream" sparkle:edSignature="MrPnVhELiuiuT6Lw0W0UkeKeQ/SrqVfCuEkmDPdfN3z02kybGbSA1MDugij5dUKiGHFtYWBPFOCPndHN+GM4BA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="5974360" type="application/octet-stream" sparkle:edSignature="w66VCmd8VNIqYHgDnSsD0HQtx44BPZcPWnJe8VM3X0eDdCsZ2acewqd1T9oZmU4ih60VwVWsA2XCxT4/FF50Ag=="/>
         </item>
     </channel>
 </rss>
