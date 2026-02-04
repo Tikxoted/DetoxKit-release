@@ -5,11 +5,11 @@
         <item>
             <title>1.0.9</title>
             <description><![CDATA[<ul><li>Added support for Custom Sound Effects (MP3, M4A, WAV, AIFF, MOV)</li></ul>]]></description>
-            <pubDate>Wed, 04 Feb 2026 20:30:24 +0700</pubDate>
-            <sparkle:version>9</sparkle:version>
+            <pubDate>Wed, 04 Feb 2026 21:28:01 +0700</pubDate>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6014869" type="application/octet-stream" sparkle:edSignature="1At7TzD1725fbEEgjEdLegp0z1hEixkXVqydtraMBT/OhljsGGOGju1H22NI5WOGOvjAhIoPEvZnrhMxHFYJBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6022624" type="application/octet-stream" sparkle:edSignature="boMbMicm2l/BJ4ZLHlBAjuTOBVLWUXcT2BUWFnrvKk9Z6fj0Wgbp/gaLMunWVItZQFQqW4pcsu+SAfUNXYdcAg=="/>
         </item>
     </channel>
 </rss>
