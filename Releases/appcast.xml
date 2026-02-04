@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.8</title>
-            <description><![CDATA[<ul><li>Integrated Sentry for crash reporting</li></ul>]]></description>
-            <pubDate>Tue, 03 Feb 2026 17:35:40 +0700</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <title>1.0.9</title>
+            <description><![CDATA[<ul><li>Added support for Custom Sound Effects (MP3, M4A, WAV, AIFF, MOV)</li></ul>]]></description>
+            <pubDate>Wed, 04 Feb 2026 20:30:24 +0700</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="5974360" type="application/octet-stream" sparkle:edSignature="w66VCmd8VNIqYHgDnSsD0HQtx44BPZcPWnJe8VM3X0eDdCsZ2acewqd1T9oZmU4ih60VwVWsA2XCxT4/FF50Ag=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6014869" type="application/octet-stream" sparkle:edSignature="1At7TzD1725fbEEgjEdLegp0z1hEixkXVqydtraMBT/OhljsGGOGju1H22NI5WOGOvjAhIoPEvZnrhMxHFYJBA=="/>
         </item>
     </channel>
 </rss>
