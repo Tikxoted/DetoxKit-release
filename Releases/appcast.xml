@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.10</title>
-            <description><![CDATA[<ul><li>Improve license key chain security</li><li>Improve license form UX and fix external link bugs</li></ul>]]></description>
-            <pubDate>Thu, 05 Feb 2026 20:19:14 +0700</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <description><![CDATA[<ul><li>Handle sparkle gentle update notification</li><li>Improve auto update for background menubar app</li></ul>]]></description>
+            <pubDate>Thu, 05 Feb 2026 20:52:53 +0700</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6026175" type="application/octet-stream" sparkle:edSignature="/XoeBO050FlgqkQiNklvKFIzSdo5dclfUhRaYLmfJaek9nLo9B892GKwaZjv84z9PrhjksviLk/gCNo7vI72BQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6029824" type="application/octet-stream" sparkle:edSignature="hsEx63B3Rlh1bMS//ylS8RoBxWMcXbRSUb4Pf3LNMqzZBsLMxNkFOHsvfO3l4oPiZf4sBHB0vjO/2zX876fuCw=="/>
         </item>
     </channel>
 </rss>
