@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.13</title>
-            <description><![CDATA[<ul><li>Fixed an issue where the app could hang temporarily when a new update is detected.</li></ul>]]></description>
-            <pubDate>Fri, 06 Feb 2026 09:50:02 +0700</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <title>1.0.14</title>
+            <description><![CDATA[<ul><li>Fixed an issue where updates were automatically installed without user confirmation.</li></ul>]]></description>
+            <pubDate>Fri, 06 Feb 2026 21:20:40 +0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6033338" type="application/octet-stream" sparkle:edSignature="aAI5eGckZzSDzU/SOMpkC2QFpaQtI7aaBkaLCc6F8co5EyfL3MU/U6Kp6Xoki9vnzBTjNh6ndTFmYjZLINEvCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6033417" type="application/octet-stream" sparkle:edSignature="/xARZ55Y3bwv/ljPctD5M54tC9kYG0TLNdakrglfBPn4LwnNvFeMZdqI3OGTilg3HMyTeuvPZSll6VcCNmtoDA=="/>
         </item>
     </channel>
 </rss>
