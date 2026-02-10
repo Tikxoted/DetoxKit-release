@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.15</title>
-            <description><![CDATA[<ul><li>**Awareness Screen UI Upgrade**: Added beautiful particle animations to enhance the focus experience.</li><li>**Customizable Awareness Screen**: New settings are now available to tailor the awareness screen to your preferences.</li><li>**Sound Effect Customization**: You can now choose and customize sound effects for different events.</li><li>**Performance Improvements**: Optimized the break screen for better responsiveness and smoother performance.</li></ul>]]></description>
-            <pubDate>Mon, 09 Feb 2026 15:54:55 +0700</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <title>1.0.16</title>
+            <description><![CDATA[<ul><li>Restructured settings interface by moving intervals into break sections for better focus.</li><li>Simplified break behavior with 5-minute default delays and unlimited delay options.</li><li>Refined sound settings to focus on awareness and improved reliability of system sounds.</li><li>Enhanced debug mode with quick testing intervals and isolated storage to prevent data conflict.</li><li>Optimized performance and upgraded awareness screen UI with smooth particle animations.</li></ul>]]></description>
+            <pubDate>Tue, 10 Feb 2026 14:07:18 +0700</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6066006" type="application/octet-stream" sparkle:edSignature="cs1OaGIfwwbnRdKWKp1VKRac2+il6SDtYVr0iLl7jV/S5x//0/WqqjWAB6+LNus8pDatyb28Gp6cOw764xdZBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6058676" type="application/octet-stream" sparkle:edSignature="A3Qujqtve0tFKTPEjjoJdBvLTCQGQLRXoDutJl8kq231Vlg+DeWiBZ9RCWt3b/RyY2Kqs5mfsqG6jsRiyzipCQ=="/>
         </item>
     </channel>
 </rss>
