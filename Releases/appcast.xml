@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.16</title>
-            <description><![CDATA[<ul><li>Restructured settings interface by moving intervals into break sections for better focus.</li><li>Simplified break behavior with 5-minute default delays and unlimited delay options.</li><li>Refined sound settings to focus on awareness and improved reliability of system sounds.</li><li>Enhanced debug mode with quick testing intervals and isolated storage to prevent data conflict.</li><li>Optimized performance and upgraded awareness screen UI with smooth particle animations.</li></ul>]]></description>
-            <pubDate>Tue, 10 Feb 2026 14:07:18 +0700</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <title>1.0.17</title>
+            <description><![CDATA[<ul><li>Significantly reduced memory usage (RAM) by up to 70% and improved energy efficiency through optimized background monitoring.</li><li>Enhanced application performance with aggressive window lifecycle management and optimized particle animations.</li><li>Restructured settings interface by moving intervals into break sections and refining sound options for better focus.</li><li>Simplified break behavior with 5-minute default delays and unlimited delay options.</li><li>Enhanced debug capabilities with isolated storage and quick testing intervals for better stability.</li></ul>]]></description>
+            <pubDate>Sat, 14 Feb 2026 00:17:56 +0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6058676" type="application/octet-stream" sparkle:edSignature="A3Qujqtve0tFKTPEjjoJdBvLTCQGQLRXoDutJl8kq231Vlg+DeWiBZ9RCWt3b/RyY2Kqs5mfsqG6jsRiyzipCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6060985" type="application/octet-stream" sparkle:edSignature="CSnGyVq2wCwmvOSzOVoJp0MwwGeU/9R7/YgvbEmCHr8SlDU+R0oKU5I9DzI3+qm7/AHkJCBbDJWX550B1enjCg=="/>
         </item>
     </channel>
 </rss>
