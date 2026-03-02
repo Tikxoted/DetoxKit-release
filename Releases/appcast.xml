@@ -3,13 +3,13 @@
     <channel>
         <title>Detox Kit</title>
         <item>
-            <title>1.0.18</title>
-            <description><![CDATA[<ul><li>Added hardware-based meeting detection (camera/microphone usage)</li><li>Added screen sharing detection to automatically defer breaks</li><li>Improved typing detection: timer pauses immediately if you type during the final 10 seconds</li><li>Status bar now displays "Typing" when the countdown is frozen</li><li>Cleaned up settings by removing redundant "Fast Typing" toggles</li></ul>]]></description>
-            <pubDate>Wed, 25 Feb 2026 20:45:44 +0700</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <title>1.0.19</title>
+            <description><![CDATA[<ul><li>New skip option "Add to next break". It really help in case you want to fully recover your eyes after too much skip.</li><li>Every udpates just to make your eyes stronger, love you</li></ul>]]></description>
+            <pubDate>Mon, 02 Mar 2026 18:40:14 +0700</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6071630" type="application/octet-stream" sparkle:edSignature="pIwAgVPx8evrddDVJOP7/Qs25ijrzJc4OUY8N6ZnQ3uNbxQvbpbThTKRF9ETy8bXH9Uxs29cj7VbVjdxuHsZDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Tikxoted/DetoxKit-release/refs/heads/main/Releases/DetoxKit.dmg" length="6075453" type="application/octet-stream" sparkle:edSignature="8gHc8FReV6BgvNz1ajCB4NRFdxKWaNwVec9FZ3GuwNjLUYuyY7sKvdkKUIh2dM0hMjmNO6G90jZ4R7CcA59LAg=="/>
         </item>
     </channel>
 </rss>
